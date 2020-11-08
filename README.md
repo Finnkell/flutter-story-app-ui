@@ -4,7 +4,7 @@ A Story App UI project.
 
 <img src='assets/screenshots/Screenshot_1604858013.png' heigth='300' width='250'> <img src='assets/screenshots/Screenshot_1604858016.png' heigth='300' width='250'>
 
-![](assets/screenshots/StoryApp.gif)
+![](assets/screenshots/StoryApp.gif =300x250)
 
 ## Getting Started
 
