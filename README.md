@@ -1,18 +1,11 @@
-# story_app_ui
+<h1 align="center">Story App UI</h1>
 
-A Story App UI project.
+## :iphone: Gif and Screenshots 
 
 <img src='assets/screenshots/Screenshot_1604858013.png' heigth='300' width='250'> <img src='assets/screenshots/Screenshot_1604858016.png' heigth='300' width='250'> <img src='assets/screenshots/StoryApp.gif' heigth='300' width='250'>
 
-## Getting Started
+## :wrench: Built with Amazing Tools
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+* [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
